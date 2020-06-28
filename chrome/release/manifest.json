@@ -25,7 +25,7 @@
   "name": "__MSG_appName__",
   "update_url": "https://raw.githubusercontent.com/acgotaku/BaiduExporter/master/chrome/updates.xml",
   "author": "acgotaku",
-  "version": "1.0.2.0",
+  "version": "1.0.4.0",
   "applications": {
     "gecko": {
       "id": "baiduexporter@15cm.net"
